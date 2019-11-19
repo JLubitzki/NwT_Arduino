@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
+* [Anleitung zum Programmiermodul "Mikrocontroller" in NwT 9](README.md)
+* [Funktionen](funktionen.md)
 
