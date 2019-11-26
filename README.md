@@ -12,5 +12,3 @@ Links oben gibt es den Knopf "SIGN IN". Auf der folgenden Seite klickst du auf "
 Damit sind deine programmierten Daten natürlich in der Cloud gespeichert. Persönliche/geheime Daten haben da natürlich nichts verloren.
 {% endhint %}
 
- _some emphasized markdown text_
-
