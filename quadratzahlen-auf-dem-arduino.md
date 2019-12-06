@@ -20,6 +20,17 @@ Protokolliere wie immer dein Vorgehen.
 | wird so oft durchlaufen |  |  |
 | kann gelöscht werden |  |  |
 
-* [ ] Überprüfe und teste dein Programm.
+Um die Ausgabe vom Arduino auf dem Bildschirm anzeigen zu lassen. Muss du zuerst in der Funktion setup\(\) die Übertragungsrate festlegen.
+
+```c
+void setup() {
+  Serial.begin(9600);
+}
+```
+
+Öffne nun den "Monitor". **Hier Bild einfügen.**
+
+* [ ] Schreibe dein Programm zu den Quadratzahlen.
+* [ ] Teste dein Programm und kommentiere es.
 * [ ] Nach Rücksprach mit dem Lehrer darfst du es ausdrucken und abheften. Geschafft! 💪 
 
